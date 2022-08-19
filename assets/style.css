@@ -80,6 +80,10 @@ body {
     font-size: 18px;
 }
 
+.column-p {
+    column-count: 2;
+}
+
 /*--------*/
 
 .section-with-img {
